@@ -1,0 +1,29 @@
+Lightwing 5-Inch FPV Quadcopter
+Bill of Materials
+
+Airframe
+  Frame               Custom-fabricated frame. Fabrication drawings are
+                      included in the hardware/drawings directory.
+  Fuselage body       Cylindrical plastic container, 65 mm in diameter
+                      and 100 mm in height.
+
+Propulsion and Power
+  Motors              4 x EMAX RS2205, 2300 KV.
+  Motor wire sleeves  4 sleeves to secure the motor leads.
+  Speed controller    LANRC 60 A four-in-one ESC. A 45 A version is an
+                      option for less demanding flight profiles.
+  Propellers          DALPROP T5046C, 5-inch diameter.
+  Flight battery      3S or 4S, selected according to flight profile.
+
+Flight Control and Radio
+  Flight controller   Aocoda-RC F405 V2 with an MPU6500 or MPU6000 gyroscope.
+  Radio transmitter   FlySky FS-i6.
+  Radio receiver      FlySky FS-iA6B.
+
+FPV Video System
+  Camera              Caddx ANT.
+  Video transmitter   JHEMCU RuiBet Tran-3016W.
+  Antenna             Foxeer Lollipop 4, 5.8 GHz, short version with an
+                      SMA connector (female center contact).
+  Antenna adapter     1 x MMCX-to-SMA 90-degree right-angle adapter to
+                      connect the antenna to the video transmitter.
