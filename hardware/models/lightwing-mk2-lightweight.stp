@@ -6,7 +6,7 @@ FILE_DESCRIPTION(
   ,'2;1'
   );
 FILE_NAME(
-  '光翼二号减重.stp'
+  'lightwing-mk2-lightweight.stp'
   ,'24 921.221230',
   (''),
   ('ZWCAD Software Co.'),
@@ -44,7 +44,7 @@ DATA;
 #17=AXIS2_PLACEMENT_3D('',#14,#15,#16);
 #18=APPLICATION_CONTEXT('part');
 #19=MECHANICAL_CONTEXT('none',#18,'component');
-#20=PRODUCT('光翼二号减重','光翼二号减重','',(#19));
+#20=PRODUCT('lightwing-mk2-lightweight','lightwing-mk2-lightweight','',(#19));
 #21=PRODUCT_RELATED_PRODUCT_CATEGORY('detail','',(#20));
 #22=PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE('ANY','UNSPECIFIED',#20,.NOT_KNOWN.);
 #23=APPLICATION_CONTEXT('part');
@@ -52,7 +52,7 @@ DATA;
 #25=DESIGN_CONTEXT('detailed',#23,'design');
 #26=PRODUCT_DEFINITION('','UNSPECIFIED',#22,#25);
 #27=PRODUCT_DEFINITION_SHAPE('NONE','NONE',#26);
-#28=SHAPE_REPRESENTATION('光翼二号减重',(#17),#5);
+#28=SHAPE_REPRESENTATION('lightwing-mk2-lightweight',(#17),#5);
 #29=SHAPE_DEFINITION_REPRESENTATION(#27,#28);
 #30=CARTESIAN_POINT('',(5.8578638567738,-19.99999999995,0.));
 #31=CARTESIAN_POINT('',(5.8578638567738,-19.99999999995,4.));

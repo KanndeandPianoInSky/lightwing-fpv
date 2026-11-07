@@ -6,7 +6,7 @@ FILE_DESCRIPTION(
   ,'2;1'
   );
 FILE_NAME(
-  '保险销和相机架.stp'
+  'camera-holder-suitable-for-gopro.stp'
   ,'24 617.22 242',
   (''),
   ('ZWCAD Software Co.'),
@@ -44,7 +44,7 @@ DATA;
 #17=AXIS2_PLACEMENT_3D('',#14,#15,#16);
 #18=APPLICATION_CONTEXT('part');
 #19=MECHANICAL_CONTEXT('none',#18,'component');
-#20=PRODUCT('保险销和相机架','保险销和相机架','',(#19));
+#20=PRODUCT('camera-holder-suitable-for-gopro','camera-holder-suitable-for-gopro','',(#19));
 #21=PRODUCT_RELATED_PRODUCT_CATEGORY('detail','',(#20));
 #22=PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE('ANY','UNSPECIFIED',#20,.NOT_KNOWN.);
 #23=APPLICATION_CONTEXT('part');
@@ -52,7 +52,7 @@ DATA;
 #25=DESIGN_CONTEXT('detailed',#23,'design');
 #26=PRODUCT_DEFINITION('','UNSPECIFIED',#22,#25);
 #27=PRODUCT_DEFINITION_SHAPE('NONE','NONE',#26);
-#28=SHAPE_REPRESENTATION('保险销和相机架',(#17),#5);
+#28=SHAPE_REPRESENTATION('camera-holder-suitable-for-gopro',(#17),#5);
 #29=SHAPE_DEFINITION_REPRESENTATION(#27,#28);
 #30=CARTESIAN_POINT('',(-33.02685425094,25.578904489424,3.1090701614603));
 #31=CARTESIAN_POINT('',(-36.233806331832,16.107080042631,30.10907016146));
